@@ -1,4 +1,6 @@
-[
+{
+"profiles":[
 {"id":1,"name":"tipy"},
 {"id":2,"name":"tipy1"}
 ]
+}
